@@ -1,4 +1,4 @@
-print('find the mystery number')
+print('Угадай число')
 k = False
 answer =int(input('число_'))
 while k != True:
