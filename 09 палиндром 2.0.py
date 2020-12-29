@@ -1,4 +1,4 @@
-slova = input()
+slova = input('введите слова\t')
 slova = slova.split()
 for a in range (len(slova)):
     k1 = slova[a]
