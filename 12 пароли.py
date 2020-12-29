@@ -1,5 +1,5 @@
 from random import choice, randint
-letters = str('abcdefg')
+letters = str('abcdefghijklmnopqrstuvwxyz')
 symb = str('!@#$%^&*')
 numbers = str('0123456789')
 let1 = 0 #кол-во букв
